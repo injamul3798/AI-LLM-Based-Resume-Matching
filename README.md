@@ -2,6 +2,14 @@
 
 Smart ATS is an AI-powered Applicant Tracking System (ATS) designed to evaluate resumes against job descriptions. The application provides a detailed analysis, including match percentages, missing keywords, and actionable feedback, helping users optimize their resumes for job applications.
 
+
+
+https://github.com/user-attachments/assets/b6f34506-70c3-4771-bf64-4fe2e095b1cc
+
+
+ 
+
+
 ---
 
 ## Features
