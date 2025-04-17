@@ -13,6 +13,8 @@ https://github.com/user-attachments/assets/b6f34506-70c3-4771-bf64-4fe2e095b1cc
 ---
 
 ## Features
+### Report Demo
+![image](https://github.com/user-attachments/assets/562aab5e-0c28-4481-8d73-4c68c656e9ce)
 
 ### Backend
 - **Flask Application**:  
